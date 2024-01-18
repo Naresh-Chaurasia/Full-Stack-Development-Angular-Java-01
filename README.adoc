@@ -1,4 +1,4 @@
-= Full Stack Development
+= Full Stack Development Angular Java
 :toc: left
 :toclevels: 5
 :sectnums:
